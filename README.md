@@ -6,3 +6,4 @@ In this repository are stored all the files of the classes and solutions of exer
 - Module 1
   - [Linear Regression](/module%201%20-%20linear%20regression/)
   - [Pre-processing](/module%201%20-%20pre%20processing/)
+  - [Other linear regression models](/module%201%20-%20other%20linear%20regression%20models/)
